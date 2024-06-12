@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../fake-api-jwt-json-server-master"
+		}
+	]
+}
